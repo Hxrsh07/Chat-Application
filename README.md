@@ -1,7 +1,7 @@
 # Login Credentials:
 
 username- harshit, user1, user2
-//password are same for all
+
 password- 121212
 
 
